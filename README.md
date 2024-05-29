@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +72,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+=======
+# NestJs-CRUD-App
+NestJS CRUD application for managing users and wallet addresses. Implements Create, Read, Update, and Delete operations. Built with TypeScript, NestJS, and TypeORM.
+>>>>>>> 0f6a7c821fa2fef969a8509f06364ed6da639c64
