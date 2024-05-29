@@ -9,11 +9,11 @@ import { WalletAddressModule } from './wallet-address/wallet-address.module';
   imports: [
     TypeOrmModule.forRoot({
       type: 'postgres',
-      host: 'ep-holy-unit-98838014.us-east-2.aws.neon.tech',
+      host: 'your postgres host',
       port: 5432,
-      username: 'dhanunjayaburada6',
-      password: 'fGY9EO4XByHj',
-      database: 'CRUD',
+      username: 'postgres username',
+      password: 'postgres password',
+      database: 'database name',
       ssl: {
         rejectUnauthorized: false,
       },
