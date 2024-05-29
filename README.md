@@ -25,6 +25,33 @@
 
 ## Description
 
+Basic API Documentation
+POST /users: Create a new user.
+
+GET /users: Retrieve all users.
+
+GET /users/
+: Retrieve a user by ID.
+
+PUT /users/
+: Update a user by ID.
+
+DELETE /users/
+: Delete a user by ID.
+
+POST /wallet-address: Create a new wallet address.
+
+GET /wallet-address: Retrieve all wallet addresses.
+
+GET /wallet-address/
+: Retrieve a wallet address by ID.
+
+PUT /wallet-address/
+: Update a wallet address by ID.
+
+DELETE /wallet-address/
+: Delete a wallet address by ID.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
